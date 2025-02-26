@@ -5,6 +5,14 @@
  * Filename:     savings.php
  *  Author:      Adrian Gould
  *  Date:        2025-02-26
+ *
+ * References:
+ * https://www.phptutorial.net/php-oop/php-inheritance/
+ * https://www.phptutorial.net/php-oop/php-call-parent-constructor/
+ * https://www.phptutorial.net/php-oop/php-override-method/
+ * https://www.phptutorial.net/php-oop/php-override-method/
+ * https://www.phptutorial.net/php-oop/php-protected/
+ *
  */
 
 require_once 'SavingsAccount.php';

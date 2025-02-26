@@ -5,6 +5,19 @@
  * Filename:     gamer.php
  *  Author:      Adrian Gould
  *  Date:        2025-02-26
+ *
+ * References:
+ * https://www.phptutorial.net/php-oop/php-objects/
+ * https://www.phptutorial.net/php-oop/php-this/
+ * https://www.phptutorial.net/php-oop/php-access-modifiers/
+ * https://www.phptutorial.net/php-oop/php-constructors/
+ * https://www.phptutorial.net/php-oop/php-destructor/
+ * https://www.phptutorial.net/php-oop/php-typed-properties/
+ * https://www.phptutorial.net/php-oop/php-readonly-properties/
+ *
+ * https://learning.oreilly.com/course/object-oriented-php/9781789533149/
+ * Chapter 1, Chapter 2
+ *
  */
 
 require_once 'Game.php';
